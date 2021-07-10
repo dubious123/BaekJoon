@@ -11,3 +11,16 @@ C:\Users\H\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.1\obj\Debug\netcoreapp3.
 C:\Users\H\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.1\obj\Debug\netcoreapp3.1\Lv.1.dll
 C:\Users\H\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.1\obj\Debug\netcoreapp3.1\Lv.1.pdb
 C:\Users\H\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.1\obj\Debug\netcoreapp3.1\Lv.1.genruntimeconfig.cache
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.1\bin\Debug\netcoreapp3.1\Lv.1.exe
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.1\bin\Debug\netcoreapp3.1\Lv.1.deps.json
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.1\bin\Debug\netcoreapp3.1\Lv.1.runtimeconfig.json
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.1\bin\Debug\netcoreapp3.1\Lv.1.runtimeconfig.dev.json
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.1\bin\Debug\netcoreapp3.1\Lv.1.dll
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.1\bin\Debug\netcoreapp3.1\Lv.1.pdb
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.1\obj\Debug\netcoreapp3.1\Lv.1.csproj.AssemblyReference.cache
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.1\obj\Debug\netcoreapp3.1\Lv.1.AssemblyInfoInputs.cache
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.1\obj\Debug\netcoreapp3.1\Lv.1.AssemblyInfo.cs
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.1\obj\Debug\netcoreapp3.1\Lv.1.csproj.CoreCompileInputs.cache
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.1\obj\Debug\netcoreapp3.1\Lv.1.dll
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.1\obj\Debug\netcoreapp3.1\Lv.1.pdb
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.1\obj\Debug\netcoreapp3.1\Lv.1.genruntimeconfig.cache

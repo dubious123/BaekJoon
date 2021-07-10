@@ -9,7 +9,7 @@ namespace Lv._1
         public _1008()
         {
             string[] input = Console.ReadLine().Split();
-            Console.WriteLine(float.Parse(input[0]) / float.Parse(input[1]));
+            Console.WriteLine(decimal.Parse(input[0]) / decimal.Parse(input[1]));
         }
     }
 }
