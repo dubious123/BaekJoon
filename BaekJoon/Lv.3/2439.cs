@@ -15,16 +15,16 @@ namespace Lv._3
             StringBuilder result = new();
             for (i = 0; i < input; i++)
             {
-                for(j = input-i-1; j >= 0; j --) { result.Append(" "); }
+                for(j = input-i-2; j >= 0; j --) { result.Append(" "); }
                 while (i - j > 0)
                 {
                     result.Append("*");
                     j++;
                 }
-                result.Append("\n");
+                if (i != input - 1) { result.Append("\n"); }
             }
           
-            Console.WriteLine(result);
+            Console.Write(result);
         }
     }
 }
