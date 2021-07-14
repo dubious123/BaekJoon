@@ -1,0 +1,15 @@
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.8\bin\Debug\net5.0\Lv.8.exe
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.8\bin\Debug\net5.0\Lv.8.deps.json
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.8\bin\Debug\net5.0\Lv.8.runtimeconfig.json
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.8\bin\Debug\net5.0\Lv.8.runtimeconfig.dev.json
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.8\bin\Debug\net5.0\Lv.8.dll
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.8\bin\Debug\net5.0\ref\Lv.8.dll
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.8\bin\Debug\net5.0\Lv.8.pdb
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.8\obj\Debug\net5.0\Lv.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.8\obj\Debug\net5.0\Lv.8.AssemblyInfoInputs.cache
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.8\obj\Debug\net5.0\Lv.8.AssemblyInfo.cs
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.8\obj\Debug\net5.0\Lv.8.csproj.CoreCompileInputs.cache
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.8\obj\Debug\net5.0\Lv.8.dll
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.8\obj\Debug\net5.0\ref\Lv.8.dll
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.8\obj\Debug\net5.0\Lv.8.pdb
+C:\Users\한종훈\Dropbox\프로그래밍\BaekJoon\BaekJoon\Lv.8\obj\Debug\net5.0\Lv.8.genruntimeconfig.cache
